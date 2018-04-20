@@ -3,6 +3,6 @@ layout: page
 title: Historie
 ---
 
-Historie byla slavná, ale co souèasnost?
+Historie byla slavnÃ¡, ale co souÄasnost?
 
-> Více o historii na Wikipedii: [Praskı Semmering](https://cs.wikipedia.org/wiki/eleznièn%C3%AD_tra_Praha-Sm%C3%ADchov_–_Hostivice_–_Rudná_u_Prahy)
+> VÃ­ce o historii na Wikipedii: [PraÅ¾skÃ½ Semmering](https://cs.wikipedia.org/wiki/Å½elezniÄn%C3%AD_traÅ¥_Praha-Sm%C3%ADchov_â€“_Hostivice_â€“_RudnÃ¡_u_Prahy)
